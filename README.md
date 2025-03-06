@@ -8,17 +8,18 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a marketplace**
- 
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+## Education:
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Zhahir23/issues)**
+#### 1. [Universitas Budi Luhur ](https://www.budiluhur.ac.id) | Teknik Informatika | Jakarta `2024-2028`
+   - Asistant Laboratorium computer
+ #### 2. [SMK Media Informatika ](https://www.smkmediainformatika.sch.id) | RPL | Jakarta `2021-2024`
+   - -
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+## Work Experience:
+#### 1. [PT. ](https://www.sejahteraperkasa.id.com) | Frontend Engineer | Jakarta `Februari - mei`
+   - Membuat database untuk pembuatan web invoice
+   - Membuat design Ui/Ux
 
- </div>
  
 <div align="center"> 
   <a href="mailto:pedro.sales.zhahirfurqon15@gmail.com">
@@ -37,8 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,C++,bootstrap,html,css,vscode,github,figma,tailwind,git,php" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql," /><br>
+    <img src="https://skillicons.dev/icons?i=react,C++,bootstrap,html,css,vscode,github,figma,tailwind,git,php"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,c,java,nextjs,mysql," /><br>
 </div>
 
 <br/>
@@ -52,7 +53,7 @@
   <img width=390 src="https://github-readme-streak-stats-zhahir23.vercel.app/?user=Zhahir23&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-zhahir23.vercel.app/api?username=Zhahir23&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Zhahir23&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-zhahir23.vercel.app/api/top-langs/?username=Zhahir23&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
