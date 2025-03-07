@@ -1,8 +1,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zhahir+Furqon!;" />
 </h1>
+<h2 align="center"> ABOUT ME 👋</h2>
 
-<h3 align="center">A passionate software developer from Indonesia</h3>
+<h3 align="center">Hello, I am Zhahir Furqon, I am a student at Budi Luhur campus, my major is Informatics Engineering (IT). Previously I attended SMK Media Informatika, with the major I took Software Engineering (RPL). I really like basic programming, especially web developers.</h3>
 
 <br/>
 
