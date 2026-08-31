@@ -10,9 +10,9 @@
 ## Education:
 
 #### 1. [Universitas Budi Luhur ](https://www.budiluhur.ac.id) | Teknik Informatika | Jakarta `2024-2028`
-   - Asistant Laboratorium computer
+   - 
  #### 2. [SMK Media Informatika ](https://www.smkmediainformatika.sch.id) | RPL | Jakarta `2021-2024`
-   - -
+   - 
 
 ## Work Experience:
 #### 1. [PT. Setia Sejahtera Perkasa ](https://www.sejahteraperkasa.id.com) | Frontend Engineer | Jakarta `Februari - mei`
